@@ -1,0 +1,7 @@
+master edit
+branch1 edit
+<<<<<<< HEAD
+branch ui
+=======
+sadj
+>>>>>>> master change
